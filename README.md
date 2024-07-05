@@ -1,0 +1,1 @@
+A practice project from The Odin Project's HTML foundation course.
